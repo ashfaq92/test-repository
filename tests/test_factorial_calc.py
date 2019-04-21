@@ -1,7 +1,7 @@
 from unittest import TestCase
 from unittest.mock import patch
 
-from factorial_calc import factorial_calc
+from factorial import factorial_calc
 
 
 class TestFactorialCalc(TestCase):
