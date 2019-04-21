@@ -1,5 +1,5 @@
 language: python
-os: windows
+os: osx
 python:
   - "3.6"
   - "nightly"
